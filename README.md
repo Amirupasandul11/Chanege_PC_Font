@@ -55,7 +55,7 @@ Windows Registry Editor Version 5.00<br><br>
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]<br><br>
 
 "Segoe UI"=-
-<p>
+</p>
 -----------------------------------------------------------------------
 
 ##🔰 How To Change Font in PC or Laptop | Sinhala | Sri Lanka
@@ -65,6 +65,7 @@ Windows Registry Editor Version 5.00<br><br>
 
 ❤️ Subscribe :- https://www.youtube.com/channel/UCSMEWKgU8LMczGkop8k2wdw
 -----------------------------------------------------------------------
+<p>
  🔵  Website   ➜ https://cutt.ly/eR8PbRT<br>
  🔴 Subscribe  My YouTube Channel  ➜  https://cutt.ly/nUOP2ci<br>
  🔵  FaceBook  ➜   https://cutt.ly/RUOAeef<br>
@@ -77,7 +78,7 @@ Dont't Forget Please Subscribe To - https://www.youtube.com/channel/UCSMEWKgU8LM
 Thanks for watching  :)<br><br>
 
 Any Copyright Matter Please Contact Us....
-
+</p>
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
 
