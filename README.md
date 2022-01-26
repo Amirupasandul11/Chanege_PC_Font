@@ -3,10 +3,10 @@
 
 -----------------------------------------------------------------------
 
-🔰.....First Notepad ( New Font ).....
+##🔰.....First Notepad ( New Font ).....
 
 👇👇👇👇👇👇👇
-
+(1)
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
@@ -24,10 +24,10 @@ Windows Registry Editor Version 5.00
 
 -----------------------------------------------------------------------
 
-🔰.....Second NotePad ( Default Font ).....
+##🔰.....Second NotePad ( Default Font ).....
 
 👇👇👇👇👇👇👇
-
+(2)
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
@@ -58,7 +58,7 @@ Windows Registry Editor Version 5.00
 
 -----------------------------------------------------------------------
 
-🔰 How To Change Font in PC or Laptop | Sinhala | Sri Lanka
+##🔰 How To Change Font in PC or Laptop | Sinhala | Sri Lanka
 
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
@@ -68,9 +68,13 @@ Windows Registry Editor Version 5.00
 ----------------------------------------­­------------
 ----------------------------------------­­------------
  🔵  Website   ➜ https://cutt.ly/eR8PbRT
+ 
  🔴 Subscribe  My YouTube Channel  ➜  https://cutt.ly/nUOP2ci
+ 
  🔵  FaceBook  ➜   https://cutt.ly/RUOAeef
+ 
  🔴  Whatsapp Number  ➜  https://wa.me/+94750533989
+ 
  🔵  Instagram ➜ https://cutt.ly/2UOP5ax
 ----------------------------------------­­------------
 Was this tutorial helpful? 
