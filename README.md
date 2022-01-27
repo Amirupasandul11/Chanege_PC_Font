@@ -8,7 +8,8 @@
 👇👇👇👇👇👇👇
 </p>
 
-```Windows Registry Editor Version 5.00
+```
+Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
 "Segoe UI (TrueType)"=""
@@ -21,7 +22,8 @@
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
 
-"Segoe UI"="ENTER-NEW-FONT-NAME" ```
+"Segoe UI"="ENTER-NEW-FONT-NAME"
+```
 
 -----------------------------------------------------------------------
 <p align="center">
@@ -29,7 +31,8 @@
 
 👇👇👇👇👇👇👇
 </p>
-```Windows Registry Editor Version 5.00
+```
+Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
 "Segoe UI (TrueType)"="segoeui.ttf"
@@ -55,7 +58,8 @@
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
 
-"Segoe UI"=-```
+"Segoe UI"=-
+```
 -----------------------------------------------------------------------
 
 ##🔰 How To Change Font in PC or Laptop | Sinhala | Sri Lanka
